@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(800,400);
+  createCanvas(700,400);
   createSprite(400, 200, 50, 50);
 }
 
